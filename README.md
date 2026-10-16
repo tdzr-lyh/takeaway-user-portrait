@@ -1,4 +1,4 @@
-# 只使用 GitHub 的用户画像网站
+# 用户画像网站
 
 **在线访问：https://tdzr-lyh.github.io/takeaway-user-portrait/**
 
